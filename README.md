@@ -1,2 +1,2 @@
 # html_portfolio
-Portofolio for my web development
+Portfolio for my web development
